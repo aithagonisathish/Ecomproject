@@ -1,0 +1,357 @@
+{
+  "products": [
+    {
+      "id": "96f45cbb-d932-4bb2-94d1-0c91dfcfa254",
+      "image": "/images/categories/electronics/download.jpg",
+      "brand": "Puma",
+      "createdAt": "2020-11-27T11:10:58.918Z",
+      "updatedAt": "2020-11-27T11:10:58.918Z",
+      "name": "Download",
+      "price": 299,
+      "stock": 39,
+      "ratings": 2,
+      "reviews": 17,
+      "category": "Electronics",
+      "categoryPage": "/cat/electronics",
+      "detailsPage": "/prod/96f45cbb-d932-4bb2-94d1-0c91dfcfa254/electronics/download"
+    },
+    {
+      "id": "e2489712-3df3-41fd-843a-75b4d1dfe16f",
+      "image": "/images/categories/shirts/shirt.jpg",
+      "brand": "Adidas",
+      "createdAt": "2020-11-27T11:10:58.919Z",
+      "updatedAt": "2020-11-27T11:10:58.919Z",
+      "name": "Shirt",
+      "price": 1299,
+      "stock": 99,
+      "ratings": 3.5,
+      "reviews": 297,
+      "category": "Shirts",
+      "categoryPage": "/cat/shirts",
+      "detailsPage": "/prod/e2489712-3df3-41fd-843a-75b4d1dfe16f/shirts/shirt",
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "50"
+      ],
+      "colors": [
+        "Black",
+        "Grey",
+        "Purple",
+        "White"
+      ]
+    },
+    {
+      "id": "7374a013-a6e2-4965-a40a-43e3a89c0e2b",
+      "image": "/images/categories/shirts/shirt1.jpg",
+      "brand": "Puma",
+      "createdAt": "2020-11-27T11:10:58.919Z",
+      "updatedAt": "2020-11-27T11:10:58.919Z",
+      "name": "Shirt 1",
+      "price": 849,
+      "stock": 43,
+      "ratings": 1,
+      "reviews": 325,
+      "category": "Shirts",
+      "categoryPage": "/cat/shirts",
+      "detailsPage": "/prod/7374a013-a6e2-4965-a40a-43e3a89c0e2b/shirts/shirt-1",
+      "sizes": [
+        "38",
+        "44",
+        "46",
+        "50"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Green",
+        "Khaki"
+      ]
+    },
+    {
+      "id": "de342475-80cb-4597-9d39-ef3cef44bc23",
+      "image": "/images/categories/shirts/t-shirt.jpg",
+      "brand": "Nike",
+      "createdAt": "2020-11-27T11:10:58.919Z",
+      "updatedAt": "2020-11-27T11:10:58.919Z",
+      "name": "T Shirt",
+      "price": 499,
+      "stock": 85,
+      "ratings": 1,
+      "reviews": 479,
+      "category": "Shirts",
+      "categoryPage": "/cat/shirts",
+      "detailsPage": "/prod/de342475-80cb-4597-9d39-ef3cef44bc23/shirts/t-shirt",
+      "sizes": [
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        "Green",
+        "Purple",
+        "White",
+        "Yellow"
+      ]
+    },
+    {
+      "id": "f1d40032-793a-45cb-9a36-948b982193df",
+      "image": "/images/categories/shoes/pexels-photo-1027130.jpeg",
+      "brand": "Puma",
+      "createdAt": "2020-11-27T11:10:58.919Z",
+      "updatedAt": "2020-11-27T11:10:58.919Z",
+      "name": "Pexels Photo 1027130",
+      "price": 799,
+      "stock": 85,
+      "ratings": 3.5,
+      "reviews": 59,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/f1d40032-793a-45cb-9a36-948b982193df/shoes/pexels-photo-1027130",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "colors": [
+        "Green",
+        "Grey",
+        "Purple",
+        "Yellow"
+      ]
+    },
+    {
+      "id": "6fcfbb4e-dbbf-4e6f-8c39-82a0b6d9fea5",
+      "image": "/images/categories/shoes/pexels-photo-1478442.jpeg",
+      "brand": "Puma",
+      "createdAt": "2020-11-27T11:10:58.920Z",
+      "updatedAt": "2020-11-27T11:10:58.920Z",
+      "name": "Pexels Photo 1478442",
+      "price": 799,
+      "stock": 71,
+      "ratings": 5,
+      "reviews": 339,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/6fcfbb4e-dbbf-4e6f-8c39-82a0b6d9fea5/shoes/pexels-photo-1478442",
+      "sizes": [
+        "7",
+        "9",
+        "10",
+        "12"
+      ],
+      "colors": [
+        "Cobalt",
+        "Khaki",
+        "Purple",
+        "Yellow"
+      ]
+    },
+    {
+      "id": "1583da09-6114-43db-a4d6-81c140a20061",
+      "image": "/images/categories/shoes/pexels-photo-1598505.jpeg",
+      "brand": "Puma",
+      "createdAt": "2020-11-27T11:10:58.920Z",
+      "updatedAt": "2020-11-27T11:10:58.920Z",
+      "name": "Pexels Photo 1598505",
+      "price": 1399,
+      "stock": 59,
+      "ratings": 4,
+      "reviews": 353,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/1583da09-6114-43db-a4d6-81c140a20061/shoes/pexels-photo-1598505",
+      "sizes": [
+        "5",
+        "7",
+        "8",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Cobalt",
+        "Purple"
+      ]
+    },
+    {
+      "id": "4a1d34ac-98d2-495f-b155-e84604ec2319",
+      "image": "/images/categories/shoes/pexels-photo-637076.jpeg",
+      "brand": "Levis",
+      "createdAt": "2020-11-27T11:10:58.920Z",
+      "updatedAt": "2020-11-27T11:10:58.920Z",
+      "name": "Pexels Photo 637076",
+      "price": 1999,
+      "stock": 3,
+      "ratings": 3.5,
+      "reviews": 255,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/4a1d34ac-98d2-495f-b155-e84604ec2319/shoes/pexels-photo-637076",
+      "sizes": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Grey",
+        "Red",
+        "White"
+      ]
+    },
+    {
+      "id": "31c0739f-c708-4de3-ab0e-363e2e6fa00c",
+      "image": "/images/categories/shoes/pexels-photo-786003.jpeg",
+      "brand": "Adidas",
+      "createdAt": "2020-11-27T11:10:58.920Z",
+      "updatedAt": "2020-11-27T11:10:58.920Z",
+      "name": "Pexels Photo 786003",
+      "price": 1949,
+      "stock": 85,
+      "ratings": 2.5,
+      "reviews": 486,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/31c0739f-c708-4de3-ab0e-363e2e6fa00c/shoes/pexels-photo-786003",
+      "sizes": [
+        "5",
+        "6",
+        "8",
+        "9"
+      ],
+      "colors": [
+        "Cobalt",
+        "Khaki",
+        "White",
+        "Yellow"
+      ]
+    },
+    {
+      "id": "1631adc5-c393-40be-9485-3695de951ed8",
+      "image": "/images/categories/shoes/pexels-photo.jpg",
+      "brand": "Levis",
+      "createdAt": "2020-11-27T11:10:58.920Z",
+      "updatedAt": "2020-11-27T11:10:58.920Z",
+      "name": "Pexels Photo",
+      "price": 449,
+      "stock": 11,
+      "ratings": 2,
+      "reviews": 255,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/1631adc5-c393-40be-9485-3695de951ed8/shoes/pexels-photo",
+      "sizes": [
+        "7",
+        "8",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Yellow"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "sathish.aithagoni9@gmail.com",
+      "password": "$2b$10$bszQztY0ctqilWEb.QLaZ.uYy9U6VRJJGp7o4VR0UUjnElC1kMFCW",
+      "name": "sathish aithagoni",
+      "role": "user",
+      "avatar": "/images/profile/avatar.png",
+      "id": "79686e8b-4464-4536-bdca-e071817be8cb",
+      "createdAt": "2020-11-27T11:12:10.060Z",
+      "updatedAt": "2020-11-27T11:12:10.060Z"
+    },
+    {
+      "email": "kotesh@gmail.com",
+      "password": "$2b$10$t9UFJBmaL4hTyWfqFK.IOeFI5hHXN0QpWug84PcTNmzQwz5XLA0JG",
+      "name": "abcdef",
+      "role": "user",
+      "avatar": "/images/profile/avatar.png",
+      "id": "e4481893-ade3-4140-9918-69830d4a9c47",
+      "createdAt": "2020-11-27T14:29:49.110Z",
+      "updatedAt": "2020-11-27T14:29:49.110Z"
+    }
+  ],
+  "carts": [],
+  "cards": [
+    {
+      "user": "79686e8b-4464-4536-bdca-e071817be8cb",
+      "holderName": "sathish aithagoni",
+      "cardNumber": "4444111122223333",
+      "cvv": "610",
+      "expiryMonth": "3",
+      "expiryYear": "2023",
+      "type": "visa",
+      "id": "23542dd9-1338-4499-8d96-fb510ca69ba3",
+      "createdAt": "2020-11-27T14:34:00.077Z",
+      "updatedAt": "2020-11-27T14:34:00.077Z"
+    }
+  ],
+  "orders": [
+    {
+      "user": "79686e8b-4464-4536-bdca-e071817be8cb",
+      "card": "23542dd9-1338-4499-8d96-fb510ca69ba3",
+      "address": "f4bcd022-858a-40fa-8d84-ddbb8a90a198",
+      "deliveryDate": "2020-12-05T10:13:47.423Z",
+      "total": 304.98,
+      "tax": 0.02,
+      "discount": 0,
+      "items": [
+        {
+          "id": "96f45cbb-d932-4bb2-94d1-0c91dfcfa254",
+          "price": 299,
+          "quantity": 1
+        }
+      ],
+      "id": "b2dd23d7-bf05-417a-99f8-389bccd1a147",
+      "createdAt": "2020-11-28T10:13:47.423Z",
+      "updatedAt": "2020-11-28T10:13:47.423Z"
+    },
+    {
+      "user": "79686e8b-4464-4536-bdca-e071817be8cb",
+      "card": "23542dd9-1338-4499-8d96-fb510ca69ba3",
+      "address": "f4bcd022-858a-40fa-8d84-ddbb8a90a198",
+      "deliveryDate": "2020-12-05T10:16:34.106Z",
+      "total": 304.98,
+      "tax": 0.02,
+      "discount": 0,
+      "items": [
+        {
+          "id": "96f45cbb-d932-4bb2-94d1-0c91dfcfa254",
+          "price": 299,
+          "quantity": 1
+        }
+      ],
+      "id": "c959fce7-2028-4409-8d97-d9ac40a49138",
+      "createdAt": "2020-11-28T10:16:34.106Z",
+      "updatedAt": "2020-11-28T10:16:34.106Z"
+    }
+  ],
+  "favList": [],
+  "userAddresses": [
+    {
+      "user": "79686e8b-4464-4536-bdca-e071817be8cb",
+      "fullName": "sathish aithagoni",
+      "contactNo": "8374071417",
+      "postalCode": "560008",
+      "line1": "no one can catch",
+      "line2": "last floor",
+      "street": "my street",
+      "city": "old city",
+      "state": "KN",
+      "isDefault": false,
+      "id": "f4bcd022-858a-40fa-8d84-ddbb8a90a198",
+      "createdAt": "2020-11-27T13:03:20.670Z",
+      "updatedAt": "2020-11-27T13:03:20.670Z"
+    }
+  ]
+}
